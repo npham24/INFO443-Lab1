@@ -1,2 +1,4 @@
 *.js
 answer_key.ts
+.DS_Store
+tsconfig.json
